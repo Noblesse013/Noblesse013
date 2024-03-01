@@ -7,6 +7,10 @@
 </picture>
 
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@mehreenma52441/30-nites-of-code)  
+  ![@mehreenma52441 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mehreenma52441)
+
 
 <!---
 Noblesse013/Noblesse013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
