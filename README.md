@@ -15,7 +15,10 @@
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mehreenma52441/30-nites-of-code)  
   ![@mehreenma52441 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mehreenma52441)
-</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Noblesse013&label=Goldberg%20views&color=f1495c&style=transparent" alt="Noblesse013" /> </p>
+
 
 <!---
 Noblesse013/Noblesse013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
