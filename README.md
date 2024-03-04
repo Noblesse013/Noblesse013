@@ -15,8 +15,11 @@
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mehreenma52441/30-nites-of-code)  
   ![@mehreenma52441 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mehreenma52441)
-
-
+  <!---
+  <a href="https://www.credly.com/badges/2e2dd4d4-3042-4d5b-bb5a-afd28d91bd36/public_url">
+    <img src="https://github.com/Noblesse013/Noblesse013/assets/155657140/54ba77c1-1c61-42ca-9414-513984cb3a31" alt="Google Cybersecurity Certificate" width="100"/>
+  </a>
+--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Noblesse013&label=Goldberg%20views&color=f1495c&style=transparent" alt="Noblesse013" /> </p>
 
 
