@@ -1,8 +1,12 @@
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"width="300px"> </p>
+
+
+
 <h1>'Mamoru, each and every one of us has stars in our hearts'. - Sailor Moon 🤍</h1>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=209F9D&width=680&height=45&lines=Hi!+I+am+Noblesse!👀;I+am+interested+in+learning+the+unknown🤔;Well,+Come+To+Unknown!🥳;Learning+And+Coding😓😖😞😤;Take+A+Deep+Breathe+.................+And+Exhale🍃;Don't+Forget+To+Exhale!;Nice+To+Meet+You+...!&center=true"></a>
-
+</p>
 
 
 <picture>
@@ -14,14 +18,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noblesse013" alt="noblesse013" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/013drippin" target="blank"><img src="https://img.shields.io/twitter/follow/013drippin?logo=twitter&style=for-the-badge" alt="013drippin" /></a> </p>
+## <img align="center" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Get in Touch! 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/24mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/24mm" height="30" width="40" /></a>
-<a href="https://twitter.com/013drippin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="013drippin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehreen-mallick-fiona-6b0b87251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehreen-mallick-fiona-6b0b87251/" height="30" width="40" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/elliepopoca/">
+<img align="left" src="https://user-images.githubusercontent.com/65576812/183569542-480ab1ee-9e98-4cd9-a60a-23919be2feb4.png" width="150px">
+<a /> 
+
+<br></br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
