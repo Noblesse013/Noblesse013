@@ -15,7 +15,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=209F9D&width=680&height=45&lines=Hi!+I+am+Noblesse!👀;I+am+interested+in+learning+the+unknown🤔;Well,+Come+To+Unknown!🥳;Learning+And+Coding😓😖😞😤;Take+A+Deep+Breathe+.................+And+Exhale🍃;Don't+Forget+To+Exhale!;Nice+To+Meet+You+...!&center=true"></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noblesse013" alt="noblesse013" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noblesse013&theme=dracula" alt="hi" /></a> </p>
 
 ## <img align="center" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Get in Touch! 
 
