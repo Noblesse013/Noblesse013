@@ -20,7 +20,7 @@
 ## <img align="center" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Get in Touch! 
 
 
-<a href="https://www.linkedin.com/in/elliepopoca/">
+<a href="https://www.linkedin.com/in/mehreen-mallick-fiona-6b0b87251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img align="left" src="https://user-images.githubusercontent.com/65576812/183569542-480ab1ee-9e98-4cd9-a60a-23919be2feb4.png" width="150px">
 <a /> 
 
