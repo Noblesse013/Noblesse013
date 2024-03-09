@@ -1,7 +1,7 @@
 
 
 
- <h5>'Mamoru, each and every one of us has stars in our hearts'. - Sailor Moon 🤍</h5>  <img src="https://komarev.com/ghpvc/?username=Noblesse013&label=Goldberg%20views&color=f1495c&style=transparent" alt="Noblesse013" />
+ <h5>'Mamoru, each and every one of us has stars in our hearts'. - Sailor Moon 🤍</h5>
 
 ## <img align="center" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Get in Touch! 
 
