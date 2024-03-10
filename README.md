@@ -1,11 +1,10 @@
 <p> 
-<img align="left" src='https://github.com/Noblesse013/Noblesse013/assets/155657140/575848be-fa14-43ef-a653-965658f065c4' width="100px">
+<img align="right" src='https://github.com/Noblesse013/Noblesse013/assets/155657140/575848be-fa14-43ef-a653-965658f065c4' width="100px">
     Thanks for stopping by. What's up with my GitHub? I have a few things you can 
     check out! Now? I'm hoping to level up in python and javascript!!! Game's not  
     over!😵‍💫 🥣  
 
-## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> STATS ₊‧°𐐪♡𐑂°‧₊ <p align="right"> <img src="https://komarev.com/ghpvc/?username=Noblesse013&label=Goldberg%20views&color=f1495c&style=transparent" alt="Noblesse013" /> </p>
-
+## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> STATS ₊‧°𐐪♡𐑂°‧₊ 
 - I'm a second-year student studying Computer Science and Engineering at the Brac University!
 - I'm currently learning JavaScript and I'm improving my knowledge about Data Structure with the help of Python.
 <p /> 
@@ -30,6 +29,7 @@
   <a href="https://www.credly.com/badges/2e2dd4d4-3042-4d5b-bb5a-afd28d91bd36/public_url">
     <img src="https://github.com/Noblesse013/Noblesse013/assets/155657140/54ba77c1-1c61-42ca-9414-513984cb3a31" alt="Google Cybersecurity Certificate" width="100"/>
   </a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Noblesse013&label=Goldberg%20views&color=f1495c&style=transparent" alt="Noblesse013" /> </p>
 
 
 
