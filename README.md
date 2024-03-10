@@ -4,13 +4,13 @@
     check out! Now? I'm hoping to level up in python and javascript!!! Game's not  
     over!😵‍💫 🥣  
 
-## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> STATS ₊‧°𐐪♡𐑂°‧₊ 
+## <img align="left" src="https://github.com/Noblesse013/Noblesse013/assets/155657140/071b8282-4830-46c5-ad75-0f8f0d62c6de" width="40px"> STATS ₊‧°𐐪♡𐑂°‧₊ 
 - I'm a second-year student studying Computer Science and Engineering at the Brac University!
 - I'm currently learning JavaScript and I'm improving my knowledge about Data Structure with the help of Python.
 <p /> 
 <br clear="left"/>
 
-## <img align="center" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Get in Touch! 
+## <img align="center" src="https://github.com/Noblesse013/Noblesse013/assets/155657140/2b802d2e-5389-457d-93f6-da3c30e4f232" width="40px"> Get in Touch! 
 
 <a href="https://www.linkedin.com/in/mehreen-mallick-fiona-6b0b87251/">
 <img align="left" src="https://user-images.githubusercontent.com/65576812/183569542-480ab1ee-9e98-4cd9-a60a-23919be2feb4.png" width="150px">
