@@ -1,7 +1,7 @@
 <p> 
 <img align="right" src='https://github.com/Noblesse013/Noblesse013/assets/155657140/575848be-fa14-43ef-a653-965658f065c4' width="100px">
     Thanks for stopping by. What's up with my GitHub? I have a few things you can 
-    check out! Now? I'm hoping to level up in python and javascript!!! Game's not  
+    check out! Now? I'm hoping to level up in python ,html and javascript!!! Game's not  
     over!😵‍💫 🥣  
 
 ## <img align="left" src="https://github.com/Noblesse013/Noblesse013/assets/155657140/071b8282-4830-46c5-ad75-0f8f0d62c6de" width="40px"> STATS ₊‧°𐐪♡𐑂°‧₊ 
