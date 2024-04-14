@@ -20,7 +20,7 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
 
-## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Badge ₊‧°𐐪♡𐑂°‧₊ 
+## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px">Badge
   <a href="https://www.credly.com/badges/2e2dd4d4-3042-4d5b-bb5a-afd28d91bd36/public_url">
     <img src="https://github.com/Noblesse013/Noblesse013/assets/155657140/54ba77c1-1c61-42ca-9414-513984cb3a31" alt="Google Cybersecurity Certificate" width="100"/>
   </a>
