@@ -1,7 +1,7 @@
 <p> 
 <img align="right" src='https://github.com/Noblesse013/Noblesse013/assets/155657140/575848be-fa14-43ef-a653-965658f065c4' width="100px">
     Thanks for stopping by. What's up with my GitHub? I have a few things you can 
-    check out! Now? I'm hoping to level up in Python , HTML , SQL and javascript!!! Game's not over!😵‍💫🔁 
+    check out! Now? I'm hoping to level up in Python , HTML , SQL and Javascript!!! Game's not over!😵‍💫🔁 
 
 ## <img align="left" src="https://github.com/Noblesse013/Noblesse013/assets/155657140/071b8282-4830-46c5-ad75-0f8f0d62c6de" width="40px"> STATS 
 - I'm a second-year student studying Computer Science and Engineering at the Brac University!
