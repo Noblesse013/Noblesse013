@@ -5,7 +5,7 @@
 
 ## <img align="left" src="https://github.com/Noblesse013/Noblesse013/assets/155657140/071b8282-4830-46c5-ad75-0f8f0d62c6de" width="40px"> STATS 
 - I'm a second-year student studying Computer Science and Engineering at the Brac University!
-- I'm currently learning HTML and JavaScript and I'm improving my knowledge about Data Structure with the help of Python.
+- I'm currently learning  Linear Algebra for ML as a beginner , Bash Commands, SQL  and I'm improving my knowledge about Data Structure with the help of Python.
 <p /> 
 <br clear="left"/>
 
