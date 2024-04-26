@@ -1,7 +1,9 @@
 ## <img align="left" src='https://github.com/Noblesse013/Noblesse013/assets/155657140/575848be-fa14-43ef-a653-965658f065c4' width="100px"> What's up with my GitHub? 
 Thanks for stopping by. I have a few things you can check out! Now? I'm hoping to level up in Python! Game's not over!😵‍💫
 - I'm a second-year student studying Computer Science and Engineering at the Brac University!
-- I'm currently learning  Linear Algebra for ML as a beginner , Bash Commands, SQL  and -I'm improving my knowledge about Data Structure with the help of Python.<p /> 
+- I'm currently learning  Linear Algebra for ML as a beginner , Bash Commands, SQL
+
+-I'm improving my knowledge about Data Structure with the help of Python.<p /> 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Noblesse013&label=Goldberg%20views&color=f1495c&style=transparent" alt="Noblesse013" /> </p>
 
 
