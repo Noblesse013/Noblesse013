@@ -11,8 +11,6 @@ Thanks for stopping by. I have a few things you can check out! Now? I'm hoping t
 ## <img align="left" src="https://github.com/Noblesse013/Noblesse013/assets/155657140/071b8282-4830-46c5-ad75-0f8f0d62c6de" width="40px"> STATS 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noblesse013" alt="noblesse013" /></a> </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noblesse013&show_icons=true&locale=en&layout=compact" alt="noblesse013" /></p>
 
