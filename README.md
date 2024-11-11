@@ -38,7 +38,9 @@ Thanks for stopping by. I have a few things you can check out! Now? I'm hoping t
 <img src="https://github.com/Noblesse013/Noblesse013/assets/155657140/54ba77c1-1c61-42ca-9414-513984cb3a31" alt="Google Cybersecurity Certificate" width="100"/>
 <a href="https://www.credly.com/badges/2ded0c2a-da9d-4671-b698-a5287125e897/public_url">
 <img src="https://github.com/Noblesse013/Noblesse013/assets/155657140/e063fd2b-aec7-42db-8a31-04a79d5d42d7" alt="Google AI Essentials Certificate" width="100"/>
-
+<a href="https://www.credly.com/badges/2931734f-1015-41ce-95f1-edfe7a485348/public_url">
+<img src="https://github.com/user-attachments/assets/9e33535d-c9d9-4651-984f-d3410ca3e9f7"
+ alt="Github Foundations" width="100"/>
 <!--- 
 30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mehreenma52441/30-nites-of-code)  
