@@ -1,10 +1,12 @@
+
+ 
 # 🎮 Mehreen's Pixel Adventure
 
 ## 🌟 Character Stats
 ```
 [PLAYER: Mehreen]
 Level: Computer Science Student
-Class: Web Dev Apprentice
+Class: ML & DS Apprentice
 Special Skills: 
   - 🐍 Python Mastery
   - 🌐 Web Development
@@ -28,10 +30,10 @@ Special Skills:
 
 ## 🗺️ Current Quest
 ```
-Mission: Web Development Mastery
-Progress: ████████░░░░ (70%)
+Mission: Machine Learning Math Mastery
+Progress: █████░░░░░░░ (40%)
 Side Quests: 
-  - Headstarter Fellowship
+  - Azure Community Coordinator
   - Brac University Challenges
 ```
 
@@ -41,10 +43,7 @@ Side Quests:
 ## 🤝 Party Connections
 [![Twitter](https://img.shields.io/badge/🐦-@013drippin-black)](https://twitter.com/013drippin)
 [![LinkedIn](https://img.shields.io/badge/💼-Professional%20Guild-blue)](https://www.linkedin.com/in/mehreen-mallick-fiona-6b0b87251)
+ <img src="https://komarev.com/ghpvc/?username=Noblesse013&label=Goldberg%20views&color=f1495c&style=transparent" alt="Noblesse013"/> 
 
-🕹️ Game Level: In Progress
-```
-[PLAYER VIEWS]
-Total Encounters: 
-███████████████ (Profile Views)
-```
+
+
