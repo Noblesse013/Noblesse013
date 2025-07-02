@@ -31,10 +31,10 @@ Special Skills:
 ## 🗺️ Current Quest
 ```
 Mission: Machine Learning Math Mastery
-Progress: █████░░░░░░░ (40%)
+Progress: █████████░░░░ (70%)
 Side Quests: 
-  - Azure Community Coordinator
   - Brac University Challenges
+  
 ```
 
 ## 📊 Character Growth
