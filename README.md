@@ -36,10 +36,6 @@ Side Quests:
   - Brac University Challenges
   
 ```
-
-## 📊 Character Growth
-![Skill Tree](https://github-readme-stats.vercel.app/api/top-langs/?username=Noblesse013&layout=compact&theme=dark)
-
 ## 🤝 Party Connections
 [![Twitter](https://img.shields.io/badge/🐦-@013drippin-black)](https://twitter.com/013drippin)
 [![LinkedIn](https://img.shields.io/badge/💼-Professional%20Guild-blue)](https://www.linkedin.com/in/mehreen-mallick-fiona-6b0b87251)
