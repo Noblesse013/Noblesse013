@@ -1,7 +1,5 @@
 <div align="center">
 
-# mehreen mallick fiona 🌸
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=18&duration=3000&pause=1000&color=e91e8c&center=true&vCenter=true&width=450&lines=ml+%26+ds+apprentice+✿;open+source+girlie+🌸;building+things+with+love+🩷)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/portfolio-ffb6c1?style=flat-square&logoColor=c2185b)](https://mehreenmallickfiona.vercel.app/)
