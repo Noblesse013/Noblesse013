@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=18&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=450&lines=ml+%26+ds+apprentice+✿;open+source+girlie+🌸;building+things+with+love+💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=18&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=450&lines=ml+%26+ds+apprentice+💎;open+source+girlie+💮;building+things+with+love+🩵)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/portfolio-bae6fd?style=flat-square&logoColor=0369a1)](https://mehreenmallickfiona.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-93c5fd?style=flat-square&logoColor=0369a1)](https://linkedin.com/in/mehreen-mallick-fiona)
