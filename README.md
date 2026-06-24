@@ -12,7 +12,7 @@
 
 ---
 
-cs student @ **brac university** · ml, data science & full-stack dev · contributing to **kubernetes bengali docs** 🇧🇩
+cse student @ **brac university** · ml, data science & full-stack dev · contributing to **kubernetes bengali docs** 🇧🇩
 
 ---
 
